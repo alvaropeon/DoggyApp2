@@ -1,4 +1,8 @@
+---
+# We have created a temporary app in the gallery
+# We have created a delivery pipeline
 applications:
+# We have reserved a name/route for your app
 - name: dogalv
-  description : Simple demo app that has fun dog pictures.
-  memory: 96M
+  host: dogalv
+  domain: stacka.to
