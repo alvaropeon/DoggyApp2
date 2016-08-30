@@ -5,4 +5,3 @@ applications:
 # We have reserved a name/route for your app
 - name: dogalv
   host: dogalv
-  domain: stacka.to
